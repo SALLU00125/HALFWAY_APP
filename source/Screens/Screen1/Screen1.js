@@ -8,7 +8,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
 import styled from 'styled-components';
 
-
+const Tab=createBottomTabNavigator():
 const ContactsList= styled.Text`
   font-size: 20px;
   color: white;
